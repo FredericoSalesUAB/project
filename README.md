@@ -29,8 +29,9 @@
 
 #### Use the following skeleton.
 
+
 | project   | Description        | ID_APP                                    |
-|:---------:|:------------------:|:------------------------------------ ----:|
+|:---------:|:------------------:|:-----------------------------------------:|
 | blog      | skel project CEAD  | b708bccb166e7af1a11c30101f9a328ccfa6c97a  |
 | almox     | controle logistico | a11c30101f9a328ccfa6c97ab708bccb166e7af0  |
 | ticket    | consumer service   | e7af1a11c30b708bccb16bccb16611c30101f9a9  |
