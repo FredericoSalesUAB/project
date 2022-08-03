@@ -15,7 +15,7 @@
 ## PATH's
 #
 SRC          := src/blog
-VENV_BIN_DIR := /Users/frederico/.virtualenvs/blog/bin
+VENV_BIN_DIR := /Users/frederico/.virtualenvs/project/bin
 ACTIVATE     := ${VENV_BIN_DIR}/activate
 PYTHON_BIN   := ${VENV_BIN_DIR}/python
 PIP_BIN      := ${VENV_BIN_DIR}/pip
