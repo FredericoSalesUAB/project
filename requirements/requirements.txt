@@ -1,0 +1,6 @@
+django
+django-helpdesk
+psycopg2-binary
+plotly
+matplotlib
+numpy
