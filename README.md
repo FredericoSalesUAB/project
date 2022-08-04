@@ -76,6 +76,11 @@ Edit the file to reach the needed result.
 
 ---
 
+#### Project tree.
+
+![tree](scripts/assets/tree_app.png)
+
+---
 #### Use the following skeleton.
 
 
