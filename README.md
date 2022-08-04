@@ -9,7 +9,7 @@
 
 ---
 
-### Generate the project sum.
+### Step by step.
 
     Download the project/application skeleton from the git.
 
@@ -23,7 +23,7 @@
 [user@machine] $: mkproject project-application
 ```
 
-    Generate the new configuration file __config.json__. Edit the file to reach the needed result.
+    Generate the new configuration file __config.json__. Edit the file to reach the n eeded result.
 
 ---
 
